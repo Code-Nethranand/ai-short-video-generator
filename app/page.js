@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
       <h1>Hi my name is nethranand</h1>
-      <Button>Subscribe</Button>
+      <Button style={{ margin: "10px", color: "red" }}>Subscribe</Button>
     </div>
   );
 }
